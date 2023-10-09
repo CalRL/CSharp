@@ -1,0 +1,17 @@
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Flags\Flags\bin\Debug\net6.0-windows\Flags.exe
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Flags\Flags\bin\Debug\net6.0-windows\Flags.deps.json
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Flags\Flags\bin\Debug\net6.0-windows\Flags.runtimeconfig.json
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Flags\Flags\bin\Debug\net6.0-windows\Flags.dll
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Flags\Flags\bin\Debug\net6.0-windows\Flags.pdb
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Flags\Flags\obj\Debug\net6.0-windows\Flags.Form1.resources
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Flags\Flags\obj\Debug\net6.0-windows\Flags.Properties.Resources.resources
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Flags\Flags\obj\Debug\net6.0-windows\Flags.csproj.GenerateResource.cache
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Flags\Flags\obj\Debug\net6.0-windows\Flags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Flags\Flags\obj\Debug\net6.0-windows\Flags.AssemblyInfoInputs.cache
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Flags\Flags\obj\Debug\net6.0-windows\Flags.AssemblyInfo.cs
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Flags\Flags\obj\Debug\net6.0-windows\Flags.csproj.CoreCompileInputs.cache
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Flags\Flags\obj\Debug\net6.0-windows\Flags.dll
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Flags\Flags\obj\Debug\net6.0-windows\refint\Flags.dll
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Flags\Flags\obj\Debug\net6.0-windows\Flags.pdb
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Flags\Flags\obj\Debug\net6.0-windows\Flags.genruntimeconfig.cache
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Flags\Flags\obj\Debug\net6.0-windows\ref\Flags.dll
