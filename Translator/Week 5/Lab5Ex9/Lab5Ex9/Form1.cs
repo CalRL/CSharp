@@ -1,5 +1,6 @@
 using System.ComponentModel;
 using System.Globalization;
+using System.Net.NetworkInformation;
 
 namespace Lab5Ex9
 {
@@ -13,11 +14,17 @@ namespace Lab5Ex9
         private void button1_Click(object sender, EventArgs e)
         {
             
-            List<int> listOfInts = new List<int>();
-            foreach (int i in textBox1.Text)
+            static bool IsPalindrome(int number)
             {
-                listOfInts.Add(i);
+                string numberString = number.ToString();
+                string reversedString = new string(numberString.ToCharArray().Reverse().ToArray());
+                bool answer = numberString.Equals(reversedString);
+                MessageBox.Show($"original: {numberString}, reversed: {reversedString}", answer.ToString());
+                return numberString == reversedString;
             }
+            int inputInt = int.Parse(textBox1.Text);
+            IsPalindrome(inputInt);
+            
         }
     }
 }

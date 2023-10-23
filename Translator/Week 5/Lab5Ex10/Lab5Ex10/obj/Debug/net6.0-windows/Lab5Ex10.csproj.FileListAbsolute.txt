@@ -1,0 +1,16 @@
+E:\GitHub\CSharp\DB Assessment\Lab5Ex10\Lab5Ex10\bin\Debug\net6.0-windows\Lab5Ex10.exe
+E:\GitHub\CSharp\DB Assessment\Lab5Ex10\Lab5Ex10\bin\Debug\net6.0-windows\Lab5Ex10.deps.json
+E:\GitHub\CSharp\DB Assessment\Lab5Ex10\Lab5Ex10\bin\Debug\net6.0-windows\Lab5Ex10.runtimeconfig.json
+E:\GitHub\CSharp\DB Assessment\Lab5Ex10\Lab5Ex10\bin\Debug\net6.0-windows\Lab5Ex10.dll
+E:\GitHub\CSharp\DB Assessment\Lab5Ex10\Lab5Ex10\bin\Debug\net6.0-windows\Lab5Ex10.pdb
+E:\GitHub\CSharp\DB Assessment\Lab5Ex10\Lab5Ex10\obj\Debug\net6.0-windows\Lab5Ex10.Form1.resources
+E:\GitHub\CSharp\DB Assessment\Lab5Ex10\Lab5Ex10\obj\Debug\net6.0-windows\Lab5Ex10.csproj.GenerateResource.cache
+E:\GitHub\CSharp\DB Assessment\Lab5Ex10\Lab5Ex10\obj\Debug\net6.0-windows\Lab5Ex10.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp\DB Assessment\Lab5Ex10\Lab5Ex10\obj\Debug\net6.0-windows\Lab5Ex10.AssemblyInfoInputs.cache
+E:\GitHub\CSharp\DB Assessment\Lab5Ex10\Lab5Ex10\obj\Debug\net6.0-windows\Lab5Ex10.AssemblyInfo.cs
+E:\GitHub\CSharp\DB Assessment\Lab5Ex10\Lab5Ex10\obj\Debug\net6.0-windows\Lab5Ex10.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp\DB Assessment\Lab5Ex10\Lab5Ex10\obj\Debug\net6.0-windows\Lab5Ex10.dll
+E:\GitHub\CSharp\DB Assessment\Lab5Ex10\Lab5Ex10\obj\Debug\net6.0-windows\refint\Lab5Ex10.dll
+E:\GitHub\CSharp\DB Assessment\Lab5Ex10\Lab5Ex10\obj\Debug\net6.0-windows\Lab5Ex10.pdb
+E:\GitHub\CSharp\DB Assessment\Lab5Ex10\Lab5Ex10\obj\Debug\net6.0-windows\Lab5Ex10.genruntimeconfig.cache
+E:\GitHub\CSharp\DB Assessment\Lab5Ex10\Lab5Ex10\obj\Debug\net6.0-windows\ref\Lab5Ex10.dll
