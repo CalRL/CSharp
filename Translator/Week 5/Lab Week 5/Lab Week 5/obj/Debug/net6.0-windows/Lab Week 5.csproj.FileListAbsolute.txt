@@ -1,0 +1,17 @@
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab Week 5\Lab Week 5\obj\Debug\net6.0-windows\Lab_Week_5.Form1.resources
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab Week 5\Lab Week 5\obj\Debug\net6.0-windows\Lab Week 5.csproj.GenerateResource.cache
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab Week 5\Lab Week 5\obj\Debug\net6.0-windows\Lab Week 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab Week 5\Lab Week 5\obj\Debug\net6.0-windows\Lab Week 5.AssemblyInfoInputs.cache
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab Week 5\Lab Week 5\obj\Debug\net6.0-windows\Lab Week 5.AssemblyInfo.cs
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab Week 5\Lab Week 5\obj\Debug\net6.0-windows\Lab Week 5.csproj.CoreCompileInputs.cache
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab Week 5\Lab Week 5\bin\Debug\net6.0-windows\Lab Week 5.exe
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab Week 5\Lab Week 5\bin\Debug\net6.0-windows\Lab Week 5.deps.json
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab Week 5\Lab Week 5\bin\Debug\net6.0-windows\Lab Week 5.runtimeconfig.json
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab Week 5\Lab Week 5\bin\Debug\net6.0-windows\Lab Week 5.dll
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab Week 5\Lab Week 5\bin\Debug\net6.0-windows\Lab Week 5.pdb
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab Week 5\Lab Week 5\obj\Debug\net6.0-windows\Lab Week 5.dll
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab Week 5\Lab Week 5\obj\Debug\net6.0-windows\refint\Lab Week 5.dll
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab Week 5\Lab Week 5\obj\Debug\net6.0-windows\Lab Week 5.pdb
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab Week 5\Lab Week 5\obj\Debug\net6.0-windows\Lab Week 5.genruntimeconfig.cache
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab Week 5\Lab Week 5\obj\Debug\net6.0-windows\ref\Lab Week 5.dll
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab Week 5\Lab Week 5\obj\Debug\net6.0-windows\Lab_Week_5.Form2.resources

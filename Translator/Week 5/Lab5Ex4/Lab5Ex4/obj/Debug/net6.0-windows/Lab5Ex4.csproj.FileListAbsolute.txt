@@ -1,0 +1,16 @@
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab5Ex4\Lab5Ex4\bin\Debug\net6.0-windows\Lab5Ex4.exe
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab5Ex4\Lab5Ex4\bin\Debug\net6.0-windows\Lab5Ex4.deps.json
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab5Ex4\Lab5Ex4\bin\Debug\net6.0-windows\Lab5Ex4.runtimeconfig.json
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab5Ex4\Lab5Ex4\bin\Debug\net6.0-windows\Lab5Ex4.dll
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab5Ex4\Lab5Ex4\bin\Debug\net6.0-windows\Lab5Ex4.pdb
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab5Ex4\Lab5Ex4\obj\Debug\net6.0-windows\Lab5Ex4.Form1.resources
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab5Ex4\Lab5Ex4\obj\Debug\net6.0-windows\Lab5Ex4.csproj.GenerateResource.cache
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab5Ex4\Lab5Ex4\obj\Debug\net6.0-windows\Lab5Ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab5Ex4\Lab5Ex4\obj\Debug\net6.0-windows\Lab5Ex4.AssemblyInfoInputs.cache
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab5Ex4\Lab5Ex4\obj\Debug\net6.0-windows\Lab5Ex4.AssemblyInfo.cs
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab5Ex4\Lab5Ex4\obj\Debug\net6.0-windows\Lab5Ex4.csproj.CoreCompileInputs.cache
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab5Ex4\Lab5Ex4\obj\Debug\net6.0-windows\Lab5Ex4.dll
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab5Ex4\Lab5Ex4\obj\Debug\net6.0-windows\refint\Lab5Ex4.dll
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab5Ex4\Lab5Ex4\obj\Debug\net6.0-windows\Lab5Ex4.pdb
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab5Ex4\Lab5Ex4\obj\Debug\net6.0-windows\Lab5Ex4.genruntimeconfig.cache
+C:\Users\Callum\Documents\GitHub\CSharp\Translator\Week 5\Lab5Ex4\Lab5Ex4\obj\Debug\net6.0-windows\ref\Lab5Ex4.dll
