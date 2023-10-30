@@ -1,0 +1,16 @@
+E:\GitHub\CSharp\Work\Week 6\Lab6Ex1\Lab6Ex1\bin\Debug\net6.0-windows\Lab6Ex1.exe
+E:\GitHub\CSharp\Work\Week 6\Lab6Ex1\Lab6Ex1\bin\Debug\net6.0-windows\Lab6Ex1.deps.json
+E:\GitHub\CSharp\Work\Week 6\Lab6Ex1\Lab6Ex1\bin\Debug\net6.0-windows\Lab6Ex1.runtimeconfig.json
+E:\GitHub\CSharp\Work\Week 6\Lab6Ex1\Lab6Ex1\bin\Debug\net6.0-windows\Lab6Ex1.dll
+E:\GitHub\CSharp\Work\Week 6\Lab6Ex1\Lab6Ex1\bin\Debug\net6.0-windows\Lab6Ex1.pdb
+E:\GitHub\CSharp\Work\Week 6\Lab6Ex1\Lab6Ex1\obj\Debug\net6.0-windows\Lab6Ex1.Form1.resources
+E:\GitHub\CSharp\Work\Week 6\Lab6Ex1\Lab6Ex1\obj\Debug\net6.0-windows\Lab6Ex1.csproj.GenerateResource.cache
+E:\GitHub\CSharp\Work\Week 6\Lab6Ex1\Lab6Ex1\obj\Debug\net6.0-windows\Lab6Ex1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp\Work\Week 6\Lab6Ex1\Lab6Ex1\obj\Debug\net6.0-windows\Lab6Ex1.AssemblyInfoInputs.cache
+E:\GitHub\CSharp\Work\Week 6\Lab6Ex1\Lab6Ex1\obj\Debug\net6.0-windows\Lab6Ex1.AssemblyInfo.cs
+E:\GitHub\CSharp\Work\Week 6\Lab6Ex1\Lab6Ex1\obj\Debug\net6.0-windows\Lab6Ex1.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp\Work\Week 6\Lab6Ex1\Lab6Ex1\obj\Debug\net6.0-windows\Lab6Ex1.dll
+E:\GitHub\CSharp\Work\Week 6\Lab6Ex1\Lab6Ex1\obj\Debug\net6.0-windows\refint\Lab6Ex1.dll
+E:\GitHub\CSharp\Work\Week 6\Lab6Ex1\Lab6Ex1\obj\Debug\net6.0-windows\Lab6Ex1.pdb
+E:\GitHub\CSharp\Work\Week 6\Lab6Ex1\Lab6Ex1\obj\Debug\net6.0-windows\Lab6Ex1.genruntimeconfig.cache
+E:\GitHub\CSharp\Work\Week 6\Lab6Ex1\Lab6Ex1\obj\Debug\net6.0-windows\ref\Lab6Ex1.dll
