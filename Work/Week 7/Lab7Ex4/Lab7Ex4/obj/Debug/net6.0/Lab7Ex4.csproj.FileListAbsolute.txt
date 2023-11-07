@@ -1,0 +1,14 @@
+C:\Users\Callum\Documents\GitHub\CSharp\Work\Week 7\Lab7Ex4\Lab7Ex4\bin\Debug\net6.0\Lab7Ex4.exe
+C:\Users\Callum\Documents\GitHub\CSharp\Work\Week 7\Lab7Ex4\Lab7Ex4\bin\Debug\net6.0\Lab7Ex4.deps.json
+C:\Users\Callum\Documents\GitHub\CSharp\Work\Week 7\Lab7Ex4\Lab7Ex4\bin\Debug\net6.0\Lab7Ex4.runtimeconfig.json
+C:\Users\Callum\Documents\GitHub\CSharp\Work\Week 7\Lab7Ex4\Lab7Ex4\bin\Debug\net6.0\Lab7Ex4.dll
+C:\Users\Callum\Documents\GitHub\CSharp\Work\Week 7\Lab7Ex4\Lab7Ex4\bin\Debug\net6.0\Lab7Ex4.pdb
+C:\Users\Callum\Documents\GitHub\CSharp\Work\Week 7\Lab7Ex4\Lab7Ex4\obj\Debug\net6.0\Lab7Ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Callum\Documents\GitHub\CSharp\Work\Week 7\Lab7Ex4\Lab7Ex4\obj\Debug\net6.0\Lab7Ex4.AssemblyInfoInputs.cache
+C:\Users\Callum\Documents\GitHub\CSharp\Work\Week 7\Lab7Ex4\Lab7Ex4\obj\Debug\net6.0\Lab7Ex4.AssemblyInfo.cs
+C:\Users\Callum\Documents\GitHub\CSharp\Work\Week 7\Lab7Ex4\Lab7Ex4\obj\Debug\net6.0\Lab7Ex4.csproj.CoreCompileInputs.cache
+C:\Users\Callum\Documents\GitHub\CSharp\Work\Week 7\Lab7Ex4\Lab7Ex4\obj\Debug\net6.0\Lab7Ex4.dll
+C:\Users\Callum\Documents\GitHub\CSharp\Work\Week 7\Lab7Ex4\Lab7Ex4\obj\Debug\net6.0\refint\Lab7Ex4.dll
+C:\Users\Callum\Documents\GitHub\CSharp\Work\Week 7\Lab7Ex4\Lab7Ex4\obj\Debug\net6.0\Lab7Ex4.pdb
+C:\Users\Callum\Documents\GitHub\CSharp\Work\Week 7\Lab7Ex4\Lab7Ex4\obj\Debug\net6.0\Lab7Ex4.genruntimeconfig.cache
+C:\Users\Callum\Documents\GitHub\CSharp\Work\Week 7\Lab7Ex4\Lab7Ex4\obj\Debug\net6.0\ref\Lab7Ex4.dll
